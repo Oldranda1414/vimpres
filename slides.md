@@ -39,6 +39,7 @@ Questo seminario è un __introduzione__ ai __vim bindings__
 __Non dirò:__
 
 - come uscire da vim
+-
 
 ---
 
