@@ -25,7 +25,7 @@ jobs:
         run: npm install -g @marp-team/marp-cli
 
       - name: Build the slides
-        run: marp slides.md
+        run: marp slides.md --output index.html
 
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
