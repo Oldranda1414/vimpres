@@ -1,8 +1,16 @@
 ---
 marp: true
-theme: gaia
+theme: uncover
 paginate: true
+class: invert
 ---
+
+<!--
+candidate themes
+beam
+gaia
+uncover
+-->
 
 # Welcome to My Presentation
 
