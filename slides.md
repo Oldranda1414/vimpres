@@ -1,7 +1,6 @@
 ---
 marp: true
 theme: gaia
-# uncomment for page numbers
 paginate: false
 class: invert
 ---
