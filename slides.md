@@ -108,10 +108,10 @@ Vedremo solo i __più utili__
 
 Al posto delle __arrow keys__:
 
-- ⬆️ ==> k
-- ⬇️ ==> j
-- ➡️ ==> l
-- ⬅️ ==> h
+- ⬆️ → k
+- ⬇️ → j
+- ➡️ → l
+- ⬅️ → h
 
 ---
 
