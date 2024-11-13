@@ -12,7 +12,11 @@ gaia
 uncover
 -->
 
+<!-- _class: lead -->
+
 # Vim Bindings Nel 2024
+
+Leonardo Randacio
 
 ---
 
@@ -224,3 +228,22 @@ TUTTO MINUSCOLO
 """
 
 ```
+
+---
+
+## Come Imparare
+
+- Armarsi di __pazienza__
+- Installare __estensione__ per il proprio IDE preferito
+- Imparare i comandi in maniera __incrementale__
+- Chiedersi "posso fare di meglio?"
+
+---
+
+<!-- _class: lead -->
+
+# Grazie per l'attenzione
+Lucidi → https://oldranda1414.github.io/vimpres/
+Autore → leonardo.randacio@studio.unibo.it
+# **Domande?**
+# **Demo?**
