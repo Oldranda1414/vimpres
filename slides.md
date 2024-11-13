@@ -20,7 +20,7 @@ uncover
 
 Questo seminario __non__ è un tutorial di Vim
 
-Questo seminario è un __introduzione__ ai __vim bindings__
+Questo seminario è un __introduzione__ ai __Vim Bindings__
 
 __Non dirò:__
 
@@ -33,7 +33,7 @@ __Non dirò:__
 
 Questo seminario __non__ è un tutorial di Vim
 
-Questo seminario è un __introduzione__ ai __vim bindings__
+Questo seminario è un __introduzione__ ai __Vim Bindings__
 
 __Non dirò:__
 
@@ -46,16 +46,37 @@ __Non dirò:__
 
 Questo seminario __non__ è un tutorial di Vim
 
-Questo seminario è un __introduzione__ ai __vim bindings__
+Questo seminario è un __introduzione__ ai __Vim Bindings__
 
 __Non dirò:__
 
 - come uscire da vim
-- di smettere di usare il vostro IDE preferito
+- come smettere di usare il vostro IDE preferito
 
 ---
 
-## Perché?
+## Prerequisiti
+
+-
+-
+
+---
+
+## Prerequisiti
+
+- Pazienza
+-
+
+---
+
+## Prerequisiti
+
+- Pazienza
+- Touch Typing
+
+---
+
+## Perché usare i Vim Bindings?
 
 - Smettere di usare il __mouse__
 - Smettere di usare le __arrow keys__
@@ -63,14 +84,143 @@ __Non dirò:__
 
 ---
 
-## Second Slide
+## Vim Modes
 
-![Image](https://example.com/image.jpg)
+![h:520px](images/vim_modes.png)
 
 ---
 
-## Code Example
+## Vim Modes
 
-```python
-print("Hello, Marp!")
+Abbiamo __26__ nuovi shortcut!
+
+__78__ se usiamo \<shift\> e \<alt\>!!!
+
+Vedremo solo i __più utili__
+
+---
+
+## Motions
+
+Al posto delle __arrow keys__:
+
+- ⬆️ ==> k
+- ⬇️ ==> j
+- ➡️ ==> l
+- ⬅️ ==> h
+
+---
+
+## Motions
+
+Al posto delle __arrow keys__:
+
+- ⬆️ → k
+- ⬇️ → j
+- ➡️ → l
+- ⬅️ → h
+
+### Ehhhhhh?!
+
+---
+
+## Motions
+
+![h:380](images/touch_typing.png)
+
+---
+
+## Motions
+
+- w (word), b (back) → destra/sinistra di una parola
+- 0, $ → inizio e fine di una riga
+- gg, G → inizio e fine del file
+
+__Anche con numeri__
+
+- 2j → giù di 2 righe
+- 20G → vai a riga 20
+
+---
+
+## Operators
+
+- x (cross) → elimina un carattere
+- dd (delete) → elimina una riga
+- yy (hank) → copia una riga
+- p (print) → incolla
+- u (undo) → indietro di un azione
+- \<ctrl\> + r (redo) → avanti di un azione
+
+---
+
+## Operators
+
+- i (insert) → passa a Insert prima del cursore
+- a (append) → passa a Insert dopo il cursore
+- o (open) → new line e passa a Insert
+- v/V (visual) → passa a character wise/line wise Visual
+-
+-
+
+---
+
+## Operators
+
+- i (insert) → passa a Insert prima del cursore
+- a (append) → passa a Insert dopo il cursore
+- o (open) → new line e passa a Insert
+- v/V (visual) → passa a character wise/line wise Visual
+- I → ???
+- A → ???
+
+---
+
+## Vim Grammar
+
+_Mangio_ __la mela__
+
+_Verbo_ + __Sostantivo__ → _Operator_ + __Motion__
+
+---
+
+## Vim Grammar
+
+_Mangio_ __la mela__
+
+_Verbo_ + __Sostantivo__ → _Operator_ + __Motion__
+
+- __dw__ (delete word) → elimina una parola
+- __y2l__ (yank 2 right) → copia 2 caratteri a destra
+- __gU2j__ (go upper 2 down) → rendi maiuscole le prossime 3 righe
+- __ci(__ (change inner parentheses) → elimina il contenuto della parentesi e passa a Insert
+- . → ripeti l'ultimo comando
+
+---
+
+## Eureka!!!
+
+Proviamo a intuire comandi che non abbiamo mai visto:
+
+```py
+print("Hello World") # Questo commento è inutile.
+```
+
+---
+
+## Eureka!!!
+
+Proviamo a intuire comandi che non abbiamo mai visto:
+
+Ricorda: gU → rendi maiuscolo
+
+```py
+variabile_globale = 1
+
+"""
+QUESTO DOVREBBE
+ESSERE
+TUTTO MINUSCOLO
+"""
+
 ```
