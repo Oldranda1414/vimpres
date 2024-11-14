@@ -99,6 +99,10 @@ __Non dirò:__
 
 ## Perché usare i Vim Bindings?
 
+-
+-
+-
+
 ---
 
 <!-- _paginate: hold -->
@@ -106,6 +110,8 @@ __Non dirò:__
 ## Perché usare i Vim Bindings?
 
 - Smettere di usare il __mouse__
+-
+-
 
 ---
 
@@ -115,6 +121,7 @@ __Non dirò:__
 
 - Smettere di usare il __mouse__
 - Smettere di usare le __arrow keys__
+-
 
 ---
 
@@ -215,7 +222,7 @@ __Anche con numeri:__
 - __i__ (insert) → passa a Insert prima del cursore
 - __a__ (append) → passa a Insert dopo il cursore
 - __o__ (open) → new line e passa a Insert
-- __v/V__ (visual) → passa a character wise/line wise Visual
+- __v/V__ (visual) → passa a character/line wise Visual
 -
 -
 
@@ -228,7 +235,7 @@ __Anche con numeri:__
 - __i__ (insert) → passa a Insert prima del cursore
 - __a__ (append) → passa a Insert dopo il cursore
 - __o__ (open) → new line e passa a Insert
-- __v/V__ (visual) → passa a character wise/line wise Visual
+- __v/V__ (visual) → passa a character/line wise Visual
 - __I__ → ???
 - __A__ → ???
 
@@ -236,9 +243,9 @@ __Anche con numeri:__
 
 ## Vim Grammar
 
-_Mangio_ __la mela__
+_Mangio_ UNA __mela__
 
-_Verbo_ + __Sostantivo__ → _Operator_ + __Motion__
+_Verbo_ + NUMERO + __Sostantivo__ → _Operator_ + COUNT + __Motion__
 
 ---
 
@@ -246,7 +253,7 @@ _Verbo_ + __Sostantivo__ → _Operator_ + __Motion__
 
 <!-- _paginate: hold -->
 
-_Verbo_ + __Sostantivo__ → _Operator_ + __Motion__
+_Verbo_ + NUMERO + __Sostantivo__ → _Operator_ + COUNT + __Motion__
 
 - __dw__ (delete word) → elimina una parola
 
@@ -256,7 +263,7 @@ _Verbo_ + __Sostantivo__ → _Operator_ + __Motion__
 
 <!-- _paginate: hold -->
 
-_Verbo_ + __Sostantivo__ → _Operator_ + __Motion__
+_Verbo_ + NUMERO + __Sostantivo__ → _Operator_ + COUNT + __Motion__
 
 - __dw__ (delete word) → elimina una parola
 - __y2l__ (yank 2 right) → copia 2 caratteri a destra
@@ -267,7 +274,7 @@ _Verbo_ + __Sostantivo__ → _Operator_ + __Motion__
 
 <!-- _paginate: hold -->
 
-_Verbo_ + __Sostantivo__ → _Operator_ + __Motion__
+_Verbo_ + NUMERO + __Sostantivo__ → _Operator_ + COUNT + __Motion__
 
 - __dw__ (delete word) → elimina una parola
 - __y2l__ (yank 2 right) → copia 2 caratteri a destra
@@ -279,7 +286,7 @@ _Verbo_ + __Sostantivo__ → _Operator_ + __Motion__
 
 <!-- _paginate: hold -->
 
-_Verbo_ + __Sostantivo__ → _Operator_ + __Motion__
+_Verbo_ + NUMERO + __Sostantivo__ → _Operator_ + COUNT + __Motion__
 
 - __dw__ (delete word) → elimina una parola
 - __y2l__ (yank 2 right) → copia 2 caratteri a destra
