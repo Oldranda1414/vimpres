@@ -98,7 +98,7 @@ __Non dirò:__
 
 Abbiamo __26__ nuovi shortcut!
 
-__78__ se usiamo \<shift\> e \<alt\>!!!
+__52 se usiamo \<shift\>!!!
 
 Vedremo solo i __più utili__
 
@@ -202,14 +202,6 @@ _Mangio_ __la mela__
 
 _Verbo_ + __Sostantivo__ → _Operator_ + __Motion__
 
----
-
-## Vim Grammar
-
-_Mangio_ __la mela__
-
-_Verbo_ + __Sostantivo__ → _Operator_ + __Motion__
-
 - __dw__ (delete word) → elimina una parola
 
 ---
@@ -253,16 +245,9 @@ _Verbo_ + __Sostantivo__ → _Operator_ + __Motion__
 
 ## Vim Grammar
 
-_Mangio_ __la mela__
+Il comando più usato:
 
-_Verbo_ + __Sostantivo__ → _Operator_ + __Motion__
-
-- __dw__ (delete word) → elimina una parola
-- __y2l__ (yank 2 right) → copia 2 caratteri a destra
-- __gU2j__ (go upper 2 down) → rendi maiuscole le prossime 3 righe
-- __ci(__ (change inner parentheses) → elimina il contenuto della
-  parentesi e passa a Insert
-- __.__ → ripeti l'ultimo comando
+__.__ (dot) → ripeti l'ultimo comando
 
 ---
 
