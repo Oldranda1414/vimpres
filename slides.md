@@ -251,8 +251,6 @@ _Verbo_ + NUMERO + __Sostantivo__ → _Operator_ + COUNT + __Motion__
 
 ## Vim Grammar
 
-<!-- _paginate: hold -->
-
 _Verbo_ + NUMERO + __Sostantivo__ → _Operator_ + COUNT + __Motion__
 
 - __d2w__ (delete word) → elimina due parole
