@@ -12,6 +12,12 @@ gaia
 uncover
 -->
 
+<style>
+section::after {
+  content: attr(data-marpit-pagination) '/' attr(data-marpit-pagination-total);
+}
+</style>
+
 <!-- _class: lead -->
 <!-- _paginate: false -->
 
