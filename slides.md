@@ -255,7 +255,7 @@ _Verbo_ + NUMERO + __Sostantivo__ → _Operator_ + COUNT + __Motion__
 
 _Verbo_ + NUMERO + __Sostantivo__ → _Operator_ + COUNT + __Motion__
 
-- __dw__ (delete word) → elimina una parola
+- __d2w__ (delete word) → elimina due parole
 
 ---
 
@@ -265,8 +265,8 @@ _Verbo_ + NUMERO + __Sostantivo__ → _Operator_ + COUNT + __Motion__
 
 _Verbo_ + NUMERO + __Sostantivo__ → _Operator_ + COUNT + __Motion__
 
-- __dw__ (delete word) → elimina una parola
-- __y2l__ (yank 2 right) → copia 2 caratteri a destra
+- __d2w__ (delete word) → elimina due parole
+- __y$__ (yank 2 right) → copia fino a fine riga
 
 ---
 
@@ -276,8 +276,8 @@ _Verbo_ + NUMERO + __Sostantivo__ → _Operator_ + COUNT + __Motion__
 
 _Verbo_ + NUMERO + __Sostantivo__ → _Operator_ + COUNT + __Motion__
 
-- __dw__ (delete word) → elimina una parola
-- __y2l__ (yank 2 right) → copia 2 caratteri a destra
+- __d2w__ (delete word) → elimina due parole
+- __y$__ (yank 2 right) → copia fino a fine riga
 - __gU2j__ (go upper 2 down) → rendi maiuscole le prossime 3 righe
 
 ---
@@ -288,8 +288,8 @@ _Verbo_ + NUMERO + __Sostantivo__ → _Operator_ + COUNT + __Motion__
 
 _Verbo_ + NUMERO + __Sostantivo__ → _Operator_ + COUNT + __Motion__
 
-- __dw__ (delete word) → elimina una parola
-- __y2l__ (yank 2 right) → copia 2 caratteri a destra
+- __d2w__ (delete word) → elimina due parole
+- __y$__ (yank 2 right) → copia fino a fine riga
 - __gU2j__ (go upper 2 down) → rendi maiuscole le prossime 3 righe
 - __ci(__ (change inner parentheses) → elimina il contenuto della
   parentesi e passa a Insert
