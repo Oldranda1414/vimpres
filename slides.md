@@ -41,7 +41,7 @@ Questo seminario è un __introduzione__ ai __Vim Bindings__
 
 __Non dirò:__
 
-- Come uscire da Vim
+- come uscire da Vim
 -
 
 ---
