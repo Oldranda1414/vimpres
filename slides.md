@@ -41,7 +41,7 @@ Questo seminario è un __introduzione__ ai __Vim Bindings__
 
 __Non dirò:__
 
-- come uscire da Vim
+- Come uscire da Vim
 -
 
 ---
@@ -55,7 +55,7 @@ Questo seminario è un __introduzione__ ai __Vim Bindings__
 __Non dirò:__
 
 - come uscire da Vim
-- come smettere di usare il vostro IDE preferito
+- di smettere di usare il vostro IDE preferito
 
 ---
 
@@ -77,6 +77,23 @@ __Non dirò:__
 
 - Pazienza
 - Touch Typing
+
+---
+
+## Perché usare i Vim Bindings?
+
+---
+
+## Perché usare i Vim Bindings?
+
+- Smettere di usare il __mouse__
+
+---
+
+## Perché usare i Vim Bindings?
+
+- Smettere di usare il __mouse__
+- Smettere di usare le __arrow keys__
 
 ---
 
