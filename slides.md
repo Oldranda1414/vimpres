@@ -243,9 +243,9 @@ __Anche con numeri:__
 
 ## Vim Grammar
 
-_Mangio_ __la mela__
+_Mangio_ UNA __mela__
 
-_Verbo_ + __Sostantivo__ → _Operator_ + __Motion__
+_Verbo_ + NUMERO + __Sostantivo__ → _Operator_ + COUNT + __Motion__
 
 ---
 
@@ -253,7 +253,7 @@ _Verbo_ + __Sostantivo__ → _Operator_ + __Motion__
 
 <!-- _paginate: hold -->
 
-_Verbo_ + __Sostantivo__ → _Operator_ + __Motion__
+_Verbo_ + NUMERO + __Sostantivo__ → _Operator_ + COUNT + __Motion__
 
 - __dw__ (delete word) → elimina una parola
 
@@ -263,7 +263,7 @@ _Verbo_ + __Sostantivo__ → _Operator_ + __Motion__
 
 <!-- _paginate: hold -->
 
-_Verbo_ + __Sostantivo__ → _Operator_ + __Motion__
+_Verbo_ + NUMERO + __Sostantivo__ → _Operator_ + COUNT + __Motion__
 
 - __dw__ (delete word) → elimina una parola
 - __y2l__ (yank 2 right) → copia 2 caratteri a destra
@@ -274,7 +274,7 @@ _Verbo_ + __Sostantivo__ → _Operator_ + __Motion__
 
 <!-- _paginate: hold -->
 
-_Verbo_ + __Sostantivo__ → _Operator_ + __Motion__
+_Verbo_ + NUMERO + __Sostantivo__ → _Operator_ + COUNT + __Motion__
 
 - __dw__ (delete word) → elimina una parola
 - __y2l__ (yank 2 right) → copia 2 caratteri a destra
@@ -286,7 +286,7 @@ _Verbo_ + __Sostantivo__ → _Operator_ + __Motion__
 
 <!-- _paginate: hold -->
 
-_Verbo_ + __Sostantivo__ → _Operator_ + __Motion__
+_Verbo_ + NUMERO + __Sostantivo__ → _Operator_ + COUNT + __Motion__
 
 - __dw__ (delete word) → elimina una parola
 - __y2l__ (yank 2 right) → copia 2 caratteri a destra
