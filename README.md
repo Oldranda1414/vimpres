@@ -1,6 +1,6 @@
 # VimPres
 
-Presenation for a seminar at Unibo about vim key bindings
+Presenation for a seminar at Unibo about Vim Keybindings
 
 A preview is deployed on [github pages](https://oldranda1414.github.io/vimpres/)
 
@@ -12,4 +12,4 @@ Use:
 ./preview.sh
 ```
 
-To open a preview of the slides on the browser.
+To compile and open a preview of the slides on the browser.
