@@ -140,6 +140,14 @@ Al posto delle __arrow keys__:
 - 0, $ → inizio e fine di una riga
 - gg, G → inizio e fine del file
 
+---
+
+## Motions
+
+- w (word), b (back) → destra/sinistra di una parola
+- 0, $ → inizio e fine di una riga
+- gg, G → inizio e fine del file
+
 __Anche con numeri:__
 
 - 2j → giù di 2 righe
