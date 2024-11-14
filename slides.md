@@ -138,7 +138,7 @@ __Non dirò:__
 
 Abbiamo __26__ nuovi shortcut!
 
-__52__ se usiamo \<shift\>!!!
+__52__ se usiamo `\<shift\>`!!!
 
 Vedremo solo i __più utili__
 
@@ -148,10 +148,10 @@ Vedremo solo i __più utili__
 
 Al posto delle __arrow keys__:
 
-- ⬆️ → k
-- ⬇️ → j
-- ➡️ → l
-- ⬅️ → h
+- ⬆️ → __k__
+- ⬇️ → __j__
+- ➡️ → __l__
+- ⬅️ → __h__
 
 ---
 
@@ -161,10 +161,10 @@ Al posto delle __arrow keys__:
 
 Al posto delle __arrow keys__:
 
-- ⬆️ → k
-- ⬇️ → j
-- ➡️ → l
-- ⬅️ → h
+- ⬆️ → __k__
+- ⬇️ → __j__
+- ➡️ → __l__
+- ⬅️ → __h__
 
 ### Ehhhhhh?!
 
@@ -178,9 +178,9 @@ Al posto delle __arrow keys__:
 
 ## Motions
 
-- w (word), b (back) → destra/sinistra di una parola
-- 0, $ → inizio e fine di una riga
-- gg, G → inizio e fine del file
+- __w__ (word), __b__ (back) → destra/sinistra di una parola
+- __0__, __$__ → inizio e fine di una riga
+- __gg__, __G__ → inizio e fine del file
 
 ---
 
@@ -188,34 +188,34 @@ Al posto delle __arrow keys__:
 
 ## Motions
 
-- w (word), b (back) → destra/sinistra di una parola
-- 0, $ → inizio e fine di una riga
-- gg, G → inizio e fine del file
+- __w__ (word), __b__ (back) → destra/sinistra di una parola
+- __0__, __$__ → inizio e fine di una riga
+- __gg__, __G__ → inizio e fine del file
 
 __Anche con numeri:__
 
-- 2j → giù di 2 righe
-- 20G → vai a riga 20
+- __2j__ → giù di 2 righe
+- __20G__ → vai a riga 20
 
 ---
 
 ## Operators
 
-- x (cross) → elimina un carattere
-- dd (delete) → elimina una riga
-- yy (hank) → copia una riga
-- p (print) → incolla
-- u (undo) → indietro di un azione
-- \<ctrl\> + r (redo) → avanti di un azione
+- __x__ (cross) → elimina un carattere
+- __dd__ (delete) → elimina una riga
+- __yy__ (hank) → copia una riga
+- __p__ (print) → incolla
+- __u__ (undo) → indietro di un azione
+- __\<ctrl\> + r__ (redo) → avanti di un azione
 
 ---
 
 ## Operators
 
-- i (insert) → passa a Insert prima del cursore
-- a (append) → passa a Insert dopo il cursore
-- o (open) → new line e passa a Insert
-- v/V (visual) → passa a character wise/line wise Visual
+- __i__ (insert) → passa a Insert prima del cursore
+- __a__ (append) → passa a Insert dopo il cursore
+- __o__ (open) → new line e passa a Insert
+- __v/V__ (visual) → passa a character wise/line wise Visual
 -
 -
 
@@ -225,12 +225,12 @@ __Anche con numeri:__
 
 <!-- _paginate: hold -->
 
-- i (insert) → passa a Insert prima del cursore
-- a (append) → passa a Insert dopo il cursore
-- o (open) → new line e passa a Insert
-- v/V (visual) → passa a character wise/line wise Visual
-- I → ???
-- A → ???
+- __i__ (insert) → passa a Insert prima del cursore
+- __a__ (append) → passa a Insert dopo il cursore
+- __o__ (open) → new line e passa a Insert
+- __v/V__ (visual) → passa a character wise/line wise Visual
+- __I__ → ???
+- __A__ → ???
 
 ---
 
@@ -311,7 +311,7 @@ print("Hello World") # Questo commento è inutile.
 
 Proviamo a intuire comandi che non abbiamo mai visto:
 
-Ricorda: gU → rendi maiuscolo
+Ricorda: __gU__ → rendi maiuscolo
 
 ```py
 variabile_globale = 1
