@@ -115,7 +115,7 @@ __Non dirò:__
 
 Abbiamo __26__ nuovi shortcut!
 
-__52 se usiamo \<shift\>!!!
+__52__ se usiamo \<shift\>!!!
 
 Vedremo solo i __più utili__
 
