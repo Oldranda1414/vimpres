@@ -41,7 +41,7 @@ Questo seminario è un __introduzione__ ai __Vim Bindings__
 
 __Non dirò:__
 
-- come uscire da vim
+- come uscire da Vim
 -
 
 ---
@@ -54,7 +54,7 @@ Questo seminario è un __introduzione__ ai __Vim Bindings__
 
 __Non dirò:__
 
-- come uscire da vim
+- come uscire da Vim
 - come smettere di usare il vostro IDE preferito
 
 ---
@@ -140,7 +140,7 @@ Al posto delle __arrow keys__:
 - 0, $ → inizio e fine di una riga
 - gg, G → inizio e fine del file
 
-__Anche con numeri__
+__Anche con numeri:__
 
 - 2j → giù di 2 righe
 - 20G → vai a riga 20
@@ -194,11 +194,67 @@ _Mangio_ __la mela__
 
 _Verbo_ + __Sostantivo__ → _Operator_ + __Motion__
 
+---
+
+## Vim Grammar
+
+_Mangio_ __la mela__
+
+_Verbo_ + __Sostantivo__ → _Operator_ + __Motion__
+
+- __dw__ (delete word) → elimina una parola
+
+---
+
+## Vim Grammar
+
+_Mangio_ __la mela__
+
+_Verbo_ + __Sostantivo__ → _Operator_ + __Motion__
+
+- __dw__ (delete word) → elimina una parola
+- __y2l__ (yank 2 right) → copia 2 caratteri a destra
+
+---
+
+## Vim Grammar
+
+_Mangio_ __la mela__
+
+_Verbo_ + __Sostantivo__ → _Operator_ + __Motion__
+
 - __dw__ (delete word) → elimina una parola
 - __y2l__ (yank 2 right) → copia 2 caratteri a destra
 - __gU2j__ (go upper 2 down) → rendi maiuscole le prossime 3 righe
-- __ci(__ (change inner parentheses) → elimina il contenuto della parentesi e passa a Insert
-- . → ripeti l'ultimo comando
+
+---
+
+## Vim Grammar
+
+_Mangio_ __la mela__
+
+_Verbo_ + __Sostantivo__ → _Operator_ + __Motion__
+
+- __dw__ (delete word) → elimina una parola
+- __y2l__ (yank 2 right) → copia 2 caratteri a destra
+- __gU2j__ (go upper 2 down) → rendi maiuscole le prossime 3 righe
+- __ci(__ (change inner parentheses) → elimina il contenuto della
+  parentesi e passa a Insert
+
+---
+
+## Vim Grammar
+
+_Mangio_ __la mela__
+
+_Verbo_ + __Sostantivo__ → _Operator_ + __Motion__
+
+- __dw__ (delete word) → elimina una parola
+- __y2l__ (yank 2 right) → copia 2 caratteri a destra
+- __gU2j__ (go upper 2 down) → rendi maiuscole le prossime 3 righe
+- __ci(__ (change inner parentheses) → elimina il contenuto della
+  parentesi e passa a Insert
+- __.__ → ripeti l'ultimo comando
 
 ---
 
@@ -243,7 +299,10 @@ TUTTO MINUSCOLO
 <!-- _class: lead -->
 
 # Grazie per l'attenzione
+
 Lucidi → https://oldranda1414.github.io/vimpres/
 Autore → leonardo.randacio@studio.unibo.it
-# **Domande?**
-# **Demo?**
+
+# __Domande?__
+
+# __Demo?__

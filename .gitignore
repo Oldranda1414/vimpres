@@ -3,3 +3,6 @@ slides.html
 
 # Ide settings
 .vscode
+
+# Markdown lint config
+.markdownlint.json
