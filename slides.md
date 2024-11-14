@@ -1,7 +1,7 @@
 ---
 marp: true
 theme: gaia
-paginate: false
+paginate: true
 class: invert
 ---
 
@@ -13,12 +13,15 @@ uncover
 -->
 
 <!-- _class: lead -->
+<!-- _paginate: false -->
 
 # Vim Bindings Nel 2024
 
 Leonardo Randacio
 
 ---
+
+<!-- _paginate: hold -->
 
 ## Premessa
 
@@ -32,6 +35,8 @@ __Non dirò:__
 -
 
 ---
+
+<!-- _paginate: hold -->
 
 ## Premessa
 
@@ -45,6 +50,8 @@ __Non dirò:__
 -
 
 ---
+
+<!-- _paginate: hold -->
 
 ## Premessa
 
@@ -66,12 +73,16 @@ __Non dirò:__
 
 ---
 
+<!-- _paginate: hold -->
+
 ## Prerequisiti
 
 - Pazienza
 -
 
 ---
+
+<!-- _paginate: hold -->
 
 ## Prerequisiti
 
@@ -84,11 +95,15 @@ __Non dirò:__
 
 ---
 
+<!-- _paginate: hold -->
+
 ## Perché usare i Vim Bindings?
 
 - Smettere di usare il __mouse__
 
 ---
+
+<!-- _paginate: hold -->
 
 ## Perché usare i Vim Bindings?
 
@@ -96,6 +111,8 @@ __Non dirò:__
 - Smettere di usare le __arrow keys__
 
 ---
+
+<!-- _paginate: hold -->
 
 ## Perché usare i Vim Bindings?
 
@@ -132,6 +149,8 @@ Al posto delle __arrow keys__:
 
 ---
 
+<!-- _paginate: hold -->
+
 ## Motions
 
 Al posto delle __arrow keys__:
@@ -158,6 +177,8 @@ Al posto delle __arrow keys__:
 - gg, G → inizio e fine del file
 
 ---
+
+<!-- _paginate: hold -->
 
 ## Motions
 
@@ -196,6 +217,8 @@ __Anche con numeri:__
 
 ## Operators
 
+<!-- _paginate: hold -->
+
 - i (insert) → passa a Insert prima del cursore
 - a (append) → passa a Insert dopo il cursore
 - o (open) → new line e passa a Insert
@@ -215,7 +238,7 @@ _Verbo_ + __Sostantivo__ → _Operator_ + __Motion__
 
 ## Vim Grammar
 
-_Mangio_ __la mela__
+<!-- _paginate: hold -->
 
 _Verbo_ + __Sostantivo__ → _Operator_ + __Motion__
 
@@ -225,7 +248,7 @@ _Verbo_ + __Sostantivo__ → _Operator_ + __Motion__
 
 ## Vim Grammar
 
-_Mangio_ __la mela__
+<!-- _paginate: hold -->
 
 _Verbo_ + __Sostantivo__ → _Operator_ + __Motion__
 
@@ -236,7 +259,7 @@ _Verbo_ + __Sostantivo__ → _Operator_ + __Motion__
 
 ## Vim Grammar
 
-_Mangio_ __la mela__
+<!-- _paginate: hold -->
 
 _Verbo_ + __Sostantivo__ → _Operator_ + __Motion__
 
@@ -248,7 +271,7 @@ _Verbo_ + __Sostantivo__ → _Operator_ + __Motion__
 
 ## Vim Grammar
 
-_Mangio_ __la mela__
+<!-- _paginate: hold -->
 
 _Verbo_ + __Sostantivo__ → _Operator_ + __Motion__
 
@@ -307,6 +330,7 @@ TUTTO MINUSCOLO
 ---
 
 <!-- _class: lead -->
+<!-- _paginate: false -->
 
 # Grazie per l'attenzione
 
