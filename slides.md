@@ -280,7 +280,7 @@ _Verbo_ + QUANTITÀ + __Sostantivo__ → _Operator_ + COUNT + __Motion__
 _Verbo_ + QUANTITÀ + __Sostantivo__ → _Operator_ + COUNT + __Motion__
 
 - __d2w__ (delete 2 word) → elimina due parole
-- __y$__ (yank 2 line end) → copia fino a fine riga
+- __y$__ (yank line end) → copia fino a fine riga
 - __gU2j__ (go upper 2 down) → rendi maiuscole le prossime 3 righe
 
 ---
@@ -292,7 +292,7 @@ _Verbo_ + QUANTITÀ + __Sostantivo__ → _Operator_ + COUNT + __Motion__
 _Verbo_ + QUANTITÀ + __Sostantivo__ → _Operator_ + COUNT + __Motion__
 
 - __d2w__ (delete 2 word) → elimina due parole
-- __y$__ (yank 2 line end) → copia fino a fine riga
+- __y$__ (yank line end) → copia fino a fine riga
 - __gU2j__ (go upper 2 down) → rendi maiuscole le prossime 3 righe
 - __ci(__ (change inner parentheses) → elimina il contenuto della
   parentesi e passa a Insert
