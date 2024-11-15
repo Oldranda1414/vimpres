@@ -6,10 +6,9 @@ class: invert
 ---
 
 <!--
-candidate themes
-beam
-gaia
-uncover
+Voce ok?
+Mani per Vim Bindings
+Durata seminario: TODO
 -->
 
 <style>
@@ -52,7 +51,7 @@ Questo seminario è un __introduzione__ ai __Vim Bindings__
 
 __Non dirò:__
 
-- come uscire da Vim
+- di smettere di usare il vostro IDE preferito
 -
 
 ---
@@ -67,8 +66,8 @@ Questo seminario è un __introduzione__ ai __Vim Bindings__
 
 __Non dirò:__
 
-- come uscire da Vim
 - di smettere di usare il vostro IDE preferito
+- come uscire da Vim
 
 ---
 
@@ -137,7 +136,7 @@ __Non dirò:__
 
 ## Vim Modes
 
-![h:520px](images/vim_modes.png)
+![h:500px](images/vim_modes.png)
 
 ---
 
@@ -145,7 +144,7 @@ __Non dirò:__
 
 Abbiamo __26__ nuovi shortcut!
 
-__52__ se usiamo `\<shift\>`!!!
+__52__ se usiamo \<shift\> !!!
 
 Vedremo solo i __più utili__
 
@@ -183,6 +182,10 @@ Al posto delle __arrow keys__:
 
 ---
 
+![h:600](images/say-less-and.png)
+
+---
+
 ## Motions
 
 - __w__ (word), __b__ (back) → destra/sinistra di una parola
@@ -210,8 +213,8 @@ __Anche con numeri:__
 
 - __x__ (cross) → elimina un carattere
 - __dd__ (delete) → elimina una riga
-- __yy__ (hank) → copia una riga
-- __p__ (print) → incolla
+- __yy__ (yank) → copia una riga
+- __p__ (paste) → incolla
 - __u__ (undo) → indietro di un azione
 - __\<ctrl\> + r__ (redo) → avanti di un azione
 
@@ -222,6 +225,7 @@ __Anche con numeri:__
 - __i__ (insert) → passa a Insert prima del cursore
 - __a__ (append) → passa a Insert dopo il cursore
 - __o__ (open) → new line e passa a Insert
+- __cc__ (change) → elimina riga e passa a Insert
 - __v/V__ (visual) → passa a character/line wise Visual
 -
 -
@@ -235,6 +239,7 @@ __Anche con numeri:__
 - __i__ (insert) → passa a Insert prima del cursore
 - __a__ (append) → passa a Insert dopo il cursore
 - __o__ (open) → new line e passa a Insert
+- __cc__ (change) → elimina riga e passa a Insert
 - __v/V__ (visual) → passa a character/line wise Visual
 - __I__ → ???
 - __A__ → ???
@@ -245,26 +250,15 @@ __Anche con numeri:__
 
 _Mangio_ UNA __mela__
 
-_Verbo_ + NUMERO + __Sostantivo__ → _Operator_ + COUNT + __Motion__
+_Verbo_ + QUANTITÀ + __Sostantivo__ → _Operator_ + COUNT + __Motion__
 
 ---
 
 ## Vim Grammar
 
-_Verbo_ + NUMERO + __Sostantivo__ → _Operator_ + COUNT + __Motion__
+_Verbo_ + QUANTITÀ + __Sostantivo__ → _Operator_ + COUNT + __Motion__
 
-- __d2w__ (delete word) → elimina due parole
-
----
-
-## Vim Grammar
-
-<!-- _paginate: hold -->
-
-_Verbo_ + NUMERO + __Sostantivo__ → _Operator_ + COUNT + __Motion__
-
-- __d2w__ (delete word) → elimina due parole
-- __y$__ (yank 2 right) → copia fino a fine riga
+- __d2w__ (delete 2 word) → elimina due parole
 
 ---
 
@@ -272,10 +266,21 @@ _Verbo_ + NUMERO + __Sostantivo__ → _Operator_ + COUNT + __Motion__
 
 <!-- _paginate: hold -->
 
-_Verbo_ + NUMERO + __Sostantivo__ → _Operator_ + COUNT + __Motion__
+_Verbo_ + QUANTITÀ + __Sostantivo__ → _Operator_ + COUNT + __Motion__
 
-- __d2w__ (delete word) → elimina due parole
-- __y$__ (yank 2 right) → copia fino a fine riga
+- __d2w__ (delete 2 word) → elimina due parole
+- __y$__ (yank line end) → copia fino a fine riga
+
+---
+
+## Vim Grammar
+
+<!-- _paginate: hold -->
+
+_Verbo_ + QUANTITÀ + __Sostantivo__ → _Operator_ + COUNT + __Motion__
+
+- __d2w__ (delete 2 word) → elimina due parole
+- __y$__ (yank 2 line end) → copia fino a fine riga
 - __gU2j__ (go upper 2 down) → rendi maiuscole le prossime 3 righe
 
 ---
@@ -284,10 +289,10 @@ _Verbo_ + NUMERO + __Sostantivo__ → _Operator_ + COUNT + __Motion__
 
 <!-- _paginate: hold -->
 
-_Verbo_ + NUMERO + __Sostantivo__ → _Operator_ + COUNT + __Motion__
+_Verbo_ + QUANTITÀ + __Sostantivo__ → _Operator_ + COUNT + __Motion__
 
-- __d2w__ (delete word) → elimina due parole
-- __y$__ (yank 2 right) → copia fino a fine riga
+- __d2w__ (delete 2 word) → elimina due parole
+- __y$__ (yank 2 line end) → copia fino a fine riga
 - __gU2j__ (go upper 2 down) → rendi maiuscole le prossime 3 righe
 - __ci(__ (change inner parentheses) → elimina il contenuto della
   parentesi e passa a Insert
