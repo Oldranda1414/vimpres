@@ -51,7 +51,7 @@ Questo seminario è un __introduzione__ ai __Vim Bindings__
 
 __Non dirò:__
 
-- di smettere di usare il vostro IDE preferito
+- di passare a Vim
 -
 
 ---
@@ -66,7 +66,7 @@ Questo seminario è un __introduzione__ ai __Vim Bindings__
 
 __Non dirò:__
 
-- di smettere di usare il vostro IDE preferito
+- di passare a Vim
 - come uscire da Vim
 
 ---
