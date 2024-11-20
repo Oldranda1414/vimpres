@@ -8,7 +8,7 @@ class: invert
 <!--
 Voce ok?
 Mani per Vim Bindings
-Durata seminario: TODO
+Durata seminario: 1h presentazione + 30m demo
 -->
 
 <style>
