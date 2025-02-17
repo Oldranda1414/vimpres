@@ -32,7 +32,7 @@ Leonardo Randacio
 
 Questo seminario __non è__ un tutorial di Vim
 
-Questo seminario __è__ un __introduzione__ ai __Vim Bindings__
+Questo seminario è un __introduzione__ ai __Vim Bindings__
 
 __Non dirò:__
 
@@ -45,7 +45,7 @@ __Non dirò:__
 
 ## Premessa
 
-Questo seminario __non__ è un tutorial di Vim
+Questo seminario __non è__ un tutorial di Vim
 
 Questo seminario è un __introduzione__ ai __Vim Bindings__
 
@@ -60,7 +60,7 @@ __Non dirò:__
 
 ## Premessa
 
-Questo seminario __non__ è un tutorial di Vim
+Questo seminario __non è__ un tutorial di Vim
 
 Questo seminario è un __introduzione__ ai __Vim Bindings__
 
