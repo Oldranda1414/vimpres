@@ -182,7 +182,7 @@ Al posto delle __arrow keys__:
 
 ---
 
-![h:600](images/say-less-and.png)
+![h:600](images/takemymoney.jpg)
 
 ---
 
