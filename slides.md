@@ -7,7 +7,7 @@ class: invert
 
 <!--
 Voce ok?
-Mani per Vim Bindings
+Alzate le main, interrompetemi pure
 Durata seminario: 1h presentazione + 30m demo
 -->
 
@@ -30,9 +30,9 @@ Leonardo Randacio
 
 ## Premessa
 
-Questo seminario __non__ è un tutorial di Vim
+Questo seminario __non è__ un tutorial di Vim
 
-Questo seminario è un __introduzione__ ai __Vim Bindings__
+Questo seminario __è__ un __introduzione__ ai __Vim Bindings__
 
 __Non dirò:__
 
