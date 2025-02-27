@@ -7,6 +7,7 @@ class: invert
 
 <!--
 Voce ok?
+Mi presento
 Alzate le main, interrompetemi pure
 Durata seminario: 1h presentazione + 30m demo
 -->
@@ -345,6 +346,10 @@ TUTTO MINUSCOLO
 
 ---
 
+<!--
+Interessa argomento?
+Ringraziare Sprite
+-->
 <!-- _class: lead -->
 <!-- _paginate: false -->
 
