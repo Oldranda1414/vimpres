@@ -1,6 +1,9 @@
 # Preview generated files
 slides.html
 
+# pdf preview
+slides.pdf
+
 # Ide settings
 .vscode
 
