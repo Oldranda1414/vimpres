@@ -21,7 +21,7 @@ section::after {
 <!-- _class: lead -->
 <!-- _paginate: false -->
 
-# Vim Bindings Nel 2025
+# Vim Bindings nel 2025
 
 Leonardo Randacio
 
