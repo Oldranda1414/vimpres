@@ -7,6 +7,7 @@ class: invert
 
 <!--
 Voce ok?
+seminario sarà registrato
 Mi presento
 Alzate le main, interrompetemi pure
 Durata seminario: 1h presentazione + 30m demo
