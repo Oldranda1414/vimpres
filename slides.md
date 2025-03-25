@@ -9,7 +9,7 @@ class: invert
 Voce ok?
 seminario sarà registrato
 Mi presento
-Alzate le main, interrompetemi pure
+Alzate le mani, interrompetemi pure
 Durata seminario: 1h presentazione + 30m demo
 -->
 
@@ -19,12 +19,18 @@ section::after {
 }
 </style>
 
-<!-- _class: lead -->
+<!-- _class: lead invert -->
 <!-- _paginate: false -->
 
 # Vim Bindings nel 2025
 
 Leonardo Randacio
+
+---
+
+<!-- _class: invert lead -->
+
+# Premessa
 
 ---
 
@@ -136,6 +142,12 @@ __Non dirò:__
 
 ---
 
+<!-- _class: invert lead -->
+
+# Vim Modes
+
+---
+
 ## Vim Modes
 
 ![h:500px](images/vim_modes.png)
@@ -149,6 +161,12 @@ Abbiamo __26__ nuovi shortcut!
 __52__ se usiamo \<shift\> !!!
 
 Vedremo solo i __più utili__
+
+---
+
+<!-- _class: invert lead -->
+
+# Motions
 
 ---
 
@@ -211,6 +229,12 @@ __Anche con numeri:__
 
 ---
 
+<!-- _class: invert lead -->
+
+# Operators
+
+---
+
 ## Operators
 
 - __x__ (cross) → elimina un carattere
@@ -245,6 +269,12 @@ __Anche con numeri:__
 - __v/V__ (visual) → passa a character/line wise Visual
 - __I__ → ???
 - __A__ → ???
+
+---
+
+<!-- _class: invert lead -->
+
+# Vim Grammar
 
 ---
 
@@ -309,6 +339,12 @@ __.__ (dot) → ripeti l'ultimo comando
 
 ---
 
+<!-- _class: invert lead -->
+
+# Eureka!!!
+
+---
+
 ## Eureka!!!
 
 Proviamo a intuire comandi che non abbiamo mai visto:
@@ -351,7 +387,7 @@ TUTTO MINUSCOLO
 Interessa argomento?
 Ringraziare Sprite
 -->
-<!-- _class: lead -->
+<!-- _class: invert lead -->
 <!-- _paginate: false -->
 
 # Grazie per l'attenzione
