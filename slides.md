@@ -383,6 +383,23 @@ TUTTO MINUSCOLO
 
 ---
 
+<!-- _class: invert lead -->
+<!-- _paginate: false -->
+
+## Pausa e poi ...
+
+# __Demo__
+
+---
+
+# Estensioni
+
+- vscode -> vim
+- pycharm -> ideaVim
+- jupyter -> __NON USATELO__
+
+---
+
 <!--
 Interessa argomento?
 Ringraziare Sprite
@@ -392,9 +409,7 @@ Ringraziare Sprite
 
 # Grazie per l'attenzione
 
-Lucidi → https://oldranda1414.github.io/vimpres/
-Autore → leonardo.randacio@studio.unibo.it
-
 # __Domande?__
 
-# __Demo?__
+Lucidi → https://oldranda1414.github.io/vimpres/
+Autore → leonardo.randacio@studio.unibo.it
