@@ -2,20 +2,20 @@
 
 # Print the link of the slides
 
-print("https://oldranda1414.github.io/vimpres/")
+print("Hello world")
 
 # make link a variable
 
-link = "https://oldranda1414.github.io/vimpres/"
+message = "Hello world"
 
-print(link)
+print(message)
 
 # fix linting errors
 
 """this is a demo
 """
 
-LINK = "https://oldranda1414.github.io/vimpres/"
+LINK = "Hello world"
 
 print(LINK)
 
