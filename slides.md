@@ -187,10 +187,10 @@ Al posto delle __arrow keys__:
 
 Al posto delle __arrow keys__:
 
-- ⬆️ → __k__
-- ⬇️ → __j__
-- ➡️ → __l__
-- ⬅️ → __h__
+- ⬆️&nbsp;&nbsp; →&nbsp;&nbsp; __k__
+- ⬇️&nbsp;&nbsp; →&nbsp;&nbsp; __j__
+- ➡️&nbsp;&nbsp; →&nbsp;&nbsp; __l__
+- ⬅️&nbsp;&nbsp; →&nbsp;&nbsp; __h__
 
 ### Ehhhhhh?!
 
@@ -208,9 +208,9 @@ Al posto delle __arrow keys__:
 
 ## Motions
 
-- __w__ (word), __b__ (back) → destra/sinistra di una parola
-- __0__, __$__ → inizio e fine di una riga
-- __gg__, __G__ → inizio e fine del file
+- __w__ (word), __b__ (back)&nbsp;&nbsp; →&nbsp;&nbsp; destra/sinistra di una parola
+- __0__, __$__&nbsp;&nbsp; →&nbsp;&nbsp; inizio e fine di una riga
+- __gg__, __G__&nbsp;&nbsp; →&nbsp;&nbsp; inizio e fine del file
 
 ---
 
@@ -218,14 +218,14 @@ Al posto delle __arrow keys__:
 
 ## Motions
 
-- __w__ (word), __b__ (back) → destra/sinistra di una parola
-- __0__, __$__ → inizio e fine di una riga
-- __gg__, __G__ → inizio e fine del file
+- __w__ (word), __b__ (back)&nbsp;&nbsp; →&nbsp;&nbsp; destra/sinistra di una parola
+- __0__, __$__&nbsp;&nbsp; →&nbsp;&nbsp; inizio e fine di una riga
+- __gg__, __G__&nbsp;&nbsp; →&nbsp;&nbsp; inizio e fine del file
 
 __Anche con numeri:__
 
-- __2j__ → giù di 2 righe
-- __20G__ → vai a riga 20
+- __2j__&nbsp;&nbsp; →&nbsp;&nbsp; giù di 2 righe
+- __20G__&nbsp;&nbsp; →&nbsp;&nbsp; vai a riga 20
 
 ---
 
@@ -237,22 +237,22 @@ __Anche con numeri:__
 
 ## Operators
 
-- __x__ (cross) → elimina un carattere
-- __dd__ (delete) → elimina una riga
-- __yy__ (yank) → copia una riga
-- __p__ (paste) → incolla
-- __u__ (undo) → indietro di un azione
-- __\<ctrl\> + r__ (redo) → avanti di un azione
+- __x__ (cross)&nbsp;&nbsp; →&nbsp;&nbsp; elimina un carattere
+- __dd__ (delete)&nbsp;&nbsp; →&nbsp;&nbsp; elimina una riga
+- __yy__ (yank)&nbsp;&nbsp; →&nbsp;&nbsp; copia una riga
+- __p__ (paste)&nbsp;&nbsp; →&nbsp;&nbsp; incolla
+- __u__ (undo)&nbsp;&nbsp; →&nbsp;&nbsp; indietro di un azione
+- __\<ctrl\> + r__ (redo)&nbsp;&nbsp; →&nbsp;&nbsp; avanti di un azione
 
 ---
 
 ## Operators
 
-- __i__ (insert) → passa a Insert prima del cursore
-- __a__ (append) → passa a Insert dopo il cursore
-- __o__ (open) → new line e passa a Insert
-- __cc__ (change) → elimina riga e passa a Insert
-- __v/V__ (visual) → passa a character/line wise Visual
+- __i__ (insert)&nbsp;&nbsp; →&nbsp;&nbsp; passa a Insert prima del cursore
+- __a__ (append)&nbsp;&nbsp; →&nbsp;&nbsp; passa a Insert dopo il cursore
+- __o__ (open)&nbsp;&nbsp; →&nbsp;&nbsp; new line e passa a Insert
+- __cc__ (change)&nbsp;&nbsp; →&nbsp;&nbsp; elimina riga e passa a Insert
+- __v/V__ (visual)&nbsp;&nbsp; →&nbsp;&nbsp; passa a character/line wise Visual
 -
 -
 
@@ -262,13 +262,27 @@ __Anche con numeri:__
 
 <!-- _paginate: hold -->
 
-- __i__ (insert) → passa a Insert prima del cursore
-- __a__ (append) → passa a Insert dopo il cursore
-- __o__ (open) → new line e passa a Insert
-- __cc__ (change) → elimina riga e passa a Insert
-- __v/V__ (visual) → passa a character/line wise Visual
-- __I__ → ???
-- __A__ → ???
+- __i__ (insert)&nbsp;&nbsp; →&nbsp;&nbsp; passa a Insert prima del cursore
+- __a__ (append)&nbsp;&nbsp; →&nbsp;&nbsp; passa a Insert dopo il cursore
+- __o__ (open)&nbsp;&nbsp; →&nbsp;&nbsp; new line e passa a Insert
+- __cc__ (change)&nbsp;&nbsp; →&nbsp;&nbsp; elimina riga e passa a Insert
+- __v/V__ (visual)&nbsp;&nbsp; →&nbsp;&nbsp; passa a character/line wise Visual
+- __I__&nbsp;&nbsp; →&nbsp;&nbsp; ???
+- __A__&nbsp;&nbsp; →&nbsp;&nbsp; ???
+
+---
+
+## Operators
+
+<!-- _paginate: hold -->
+
+- __i__ (insert) &nbsp;&nbsp;→ &nbsp;&nbsp;passa a Insert prima del cursore
+- __a__ (append) &nbsp;&nbsp;→ &nbsp;&nbsp;passa a Insert dopo il cursore
+- __o__ (open) &nbsp;&nbsp;→ &nbsp;&nbsp;new line e passa a Insert
+- __cc__ (change) &nbsp;&nbsp;→ &nbsp;&nbsp;elimina riga e passa a Insert
+- __v/V__ (visual)&nbsp;&nbsp; →&nbsp;&nbsp; passa a character/line wise Visual
+- __I__ &nbsp;&nbsp;→ &nbsp;&nbsp;inizio riga e passa a Insert
+- __A__ &nbsp;&nbsp;→ &nbsp;&nbsp;fine riga e passa a Insert
 
 ---
 
@@ -290,7 +304,30 @@ _Verbo_ + QUANTITÀ + __Sostantivo__ → _Operator_ + COUNT + __Motion__
 
 _Verbo_ + QUANTITÀ + __Sostantivo__ → _Operator_ + COUNT + __Motion__
 
-- __d2w__ (delete 2 word) → elimina due parole
+- __d2w__ (delete 2 word)&nbsp;&nbsp; →&nbsp;&nbsp; elimina due parole
+
+---
+
+## Vim Grammar
+
+<!-- _paginate: hold -->
+
+_Verbo_ + QUANTITÀ + __Sostantivo__&nbsp;&nbsp; →&nbsp;&nbsp; _Operator_ + COUNT + __Motion__
+
+- __d2w__ (delete 2 word)&nbsp;&nbsp; →&nbsp;&nbsp; elimina due parole
+- __y$__ (yank line end)&nbsp;&nbsp; →&nbsp;&nbsp; copia fino a fine riga
+
+---
+
+## Vim Grammar
+
+<!-- _paginate: hold -->
+
+_Verbo_ + QUANTITÀ + __Sostantivo__&nbsp;&nbsp; →&nbsp;&nbsp; _Operator_ + COUNT + __Motion__
+
+- __d2w__ (delete 2 word)&nbsp;&nbsp; →&nbsp;&nbsp; elimina due parole
+- __y$__ (yank line end)&nbsp;&nbsp; →&nbsp;&nbsp; copia fino a fine riga
+- __gU2j__ (go upper 2 down)&nbsp;&nbsp; →&nbsp;&nbsp; rendi maiuscole le prossime 3 righe
 
 ---
 
@@ -300,33 +337,10 @@ _Verbo_ + QUANTITÀ + __Sostantivo__ → _Operator_ + COUNT + __Motion__
 
 _Verbo_ + QUANTITÀ + __Sostantivo__ → _Operator_ + COUNT + __Motion__
 
-- __d2w__ (delete 2 word) → elimina due parole
-- __y$__ (yank line end) → copia fino a fine riga
-
----
-
-## Vim Grammar
-
-<!-- _paginate: hold -->
-
-_Verbo_ + QUANTITÀ + __Sostantivo__ → _Operator_ + COUNT + __Motion__
-
-- __d2w__ (delete 2 word) → elimina due parole
-- __y$__ (yank line end) → copia fino a fine riga
-- __gU2j__ (go upper 2 down) → rendi maiuscole le prossime 3 righe
-
----
-
-## Vim Grammar
-
-<!-- _paginate: hold -->
-
-_Verbo_ + QUANTITÀ + __Sostantivo__ → _Operator_ + COUNT + __Motion__
-
-- __d2w__ (delete 2 word) → elimina due parole
-- __y$__ (yank line end) → copia fino a fine riga
-- __gU2j__ (go upper 2 down) → rendi maiuscole le prossime 3 righe
-- __ci(__ (change inner parentheses) → elimina il contenuto della
+- __d2w__ (delete 2 word)&nbsp;&nbsp; →&nbsp;&nbsp; elimina due parole
+- __y$__ (yank line end)&nbsp;&nbsp; →&nbsp;&nbsp; copia fino a fine riga
+- __gU2j__ (go upper 2 down)&nbsp;&nbsp; →&nbsp;&nbsp; rendi maiuscole le prossime 3 righe
+- __ci(__ (change inner parentheses)&nbsp;&nbsp; →&nbsp;&nbsp; elimina il contenuto della
   parentesi e passa a Insert
 
 ---
@@ -335,7 +349,7 @@ _Verbo_ + QUANTITÀ + __Sostantivo__ → _Operator_ + COUNT + __Motion__
 
 Il comando più usato:
 
-__.__ (dot) → ripeti l'ultimo comando
+__.__ (dot)&nbsp;&nbsp; →&nbsp;&nbsp; ripeti l'ultimo comando
 
 ---
 
@@ -386,6 +400,16 @@ TUTTO MINUSCOLO
 <!-- _class: invert lead -->
 <!-- _paginate: false -->
 
+# __Domande?__
+
+Lucidi → https://oldranda1414.github.io/vimpres/
+Autore → leonardo.randacio@studio.unibo.it
+
+---
+
+<!-- _class: invert lead -->
+<!-- _paginate: false -->
+
 ## Pausa e poi ...
 
 # __Demo__
@@ -402,14 +426,11 @@ TUTTO MINUSCOLO
 
 <!--
 Interessa argomento?
-Ringraziare Sprite
 -->
 <!-- _class: invert lead -->
 <!-- _paginate: false -->
 
 # Grazie per l'attenzione
-
-# __Domande?__
 
 Lucidi → https://oldranda1414.github.io/vimpres/
 Autore → leonardo.randacio@studio.unibo.it
