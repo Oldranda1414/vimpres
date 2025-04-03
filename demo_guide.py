@@ -1,3 +1,5 @@
+# pylint: skip-file
+
 # run this command: screenkey -s large --window
 
 # Print the link of the slides
@@ -15,13 +17,13 @@ print(message)
 """this is a demo
 """
 
-LINK = "Hello world"
+MESSAGE = "Hello world"
 
-print(LINK)
+print(MESSAGE)
 
 # add a loop
 
-for i, c in enumerate(LINK):
+for i, c in enumerate(MESSAGE):
     print("character " + c + " is at index " + i + ".")
 
 # add a function
@@ -35,5 +37,5 @@ def my_print(index, character):
     """
     print("character " + character + " is at index " + index + ".")
 
-for i, c in enumerate(LINK):
+for i, c in enumerate(MESSAGE):
     my_print(i, c)
