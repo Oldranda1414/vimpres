@@ -11,6 +11,7 @@ seminario sarà registrato
 Mi presento
 Alzate le mani, interrompetemi pure
 Durata seminario: 1h presentazione + 30m demo
+hai detto seminario sarà registrato?
 -->
 
 <style>
