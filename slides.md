@@ -297,13 +297,13 @@ __Anche con numeri:__
 
 _Mangio_ UNA __mela__
 
-_Verbo_ + QUANTITÀ + __Sostantivo__ → _Operator_ + COUNT + __Motion__
+_Verbo_ + QUANTITÀ + __Sostantivo__&nbsp;&nbsp; →&nbsp;&nbsp; _Operator_ + COUNT + __Motion__
 
 ---
 
 ## Vim Grammar
 
-_Verbo_ + QUANTITÀ + __Sostantivo__ → _Operator_ + COUNT + __Motion__
+_Verbo_ + QUANTITÀ + __Sostantivo__&nbsp;&nbsp; →&nbsp;&nbsp; _Operator_ + COUNT + __Motion__
 
 - __d2w__ (delete 2 word)&nbsp;&nbsp; →&nbsp;&nbsp; elimina due parole
 
