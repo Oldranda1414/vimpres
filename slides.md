@@ -336,7 +336,7 @@ _Verbo_ + QUANTITÀ + __Sostantivo__&nbsp;&nbsp; →&nbsp;&nbsp; _Operator_ + CO
 
 <!-- _paginate: hold -->
 
-_Verbo_ + QUANTITÀ + __Sostantivo__ → _Operator_ + COUNT + __Motion__
+_Verbo_ + QUANTITÀ + __Sostantivo__&nbsp;&nbsp; →&nbsp;&nbsp; _Operator_ + COUNT + __Motion__
 
 - __d2w__ (delete 2 word)&nbsp;&nbsp; →&nbsp;&nbsp; elimina due parole
 - __y$__ (yank line end)&nbsp;&nbsp; →&nbsp;&nbsp; copia fino a fine riga
