@@ -30,6 +30,7 @@ Leonardo Randacio
 ---
 
 <!-- _class: invert lead -->
+<!-- _paginate: false -->
 
 # Premessa
 
@@ -144,6 +145,7 @@ __Non dirò:__
 ---
 
 <!-- _class: invert lead -->
+<!-- _paginate: false -->
 
 # Vim Modes
 
@@ -166,6 +168,7 @@ Vedremo solo i __più utili__
 ---
 
 <!-- _class: invert lead -->
+<!-- _paginate: false -->
 
 # Motions
 
@@ -231,6 +234,7 @@ __Anche con numeri:__
 ---
 
 <!-- _class: invert lead -->
+<!-- _paginate: false -->
 
 # Operators
 
@@ -288,6 +292,7 @@ __Anche con numeri:__
 ---
 
 <!-- _class: invert lead -->
+<!-- _paginate: false -->
 
 # Vim Grammar
 
@@ -355,6 +360,7 @@ __.__ (dot)&nbsp;&nbsp; →&nbsp;&nbsp; ripeti l'ultimo comando
 ---
 
 <!-- _class: invert lead -->
+<!-- _paginate: false -->
 
 # Eureka!!!
 
